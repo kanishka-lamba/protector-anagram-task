@@ -16,7 +16,7 @@ Protector/
 │   ├── main.py            ← Python implementation
 │
 ├── java_assignment/
-│   ├── AnagramFinder.java ← Java implementation
+│   ├── Anagrams.java ← Java implementation
 │   ├── AI_USAGE.md        ← Documentation of my ChatGPT usage
 ```
 
@@ -81,8 +81,8 @@ python main.py
 
 ```bash
 cd java_assignment
-javac AnagramFinder.java
-java AnagramFinder
+javac Anagrams.java
+java Anagrams
 ```
 
 > Both implementations use the file at `../words-utf8.txt`.
